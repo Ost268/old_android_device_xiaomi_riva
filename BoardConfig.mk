@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/xiaomi/rolex
+DEVICE_PATH := device/xiaomi/riva
 
 # inherit from common msm8937-common
 -include device/xiaomi/msm8937-common/BoardConfigCommon.mk
@@ -24,4 +24,4 @@ DEVICE_PATH := device/xiaomi/rolex
 include $(DEVICE_PATH)/board/*.mk
 
 # Inherit the proprietary files
--include vendor/xiaomi/rolex/BoardConfigVendor.mk
+-include vendor/xiaomi/riva/BoardConfigVendor.mk

@@ -18,7 +18,7 @@
 
 set -e
 
-export DEVICE=rolex
+export DEVICE=riva
 export VENDOR=xiaomi
 export DEVICE_COMMON=msm8937-common
 

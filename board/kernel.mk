@@ -1,2 +1,2 @@
 # Kernel
-TARGET_KERNEL_CONFIG := rolex_defconfig
+TARGET_KERNEL_CONFIG := riva_defconfig
