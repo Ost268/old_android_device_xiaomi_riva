@@ -20,6 +20,6 @@ set -e
 
 export DEVICE=riva
 export VENDOR=xiaomi
-export DEVICE_COMMON=msm8937-common
+export DEVICE_COMMON=msm8917-common
 
 ./../../$VENDOR/$DEVICE_COMMON/extract-files.sh $@
